@@ -1,6 +1,6 @@
 export default function SayHello() {
   return (
-    <div>
+    <div className="sayhello">
       <div>SayHello</div>
       <div>Contents</div>
     </div>
